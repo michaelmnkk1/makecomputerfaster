@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://makecomputerfaster.readthedocs.io/en/latest/
